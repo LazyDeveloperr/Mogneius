@@ -6,4 +6,4 @@ app = Flask(__name__)
 def hello_world():
    return 'LazyDeveloper'
 
-os.system("git clone https://LazyDeveloperr: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@github.com/LazyDeveloperr/Lazyv2testbot okk && cd okk && pip3 install -U -r requirements.txt && nohup python3 bot.py &")
+os.system("git clone https://dmgscall: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@github.com/Dmgscall/darshanvaghelaokk && cd okk && pip3 install -U -r requirements.txt && nohup python3 bot.py &")
